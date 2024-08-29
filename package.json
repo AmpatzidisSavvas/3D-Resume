@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ampatzidissavvas.github.io/3D-Resume",
+  "homepage": "https://ampatzidissavvas.github.io/3D-resume",
   "name": "3dportofolio",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
